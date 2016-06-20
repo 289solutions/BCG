@@ -1,13 +1,42 @@
-You are the CIO of a pharmaceutical company and the CCO (Chief Commercial Officer) of the company wants to launch a new e-commerce platform as soon as possible.
-State three persons whose presence to the kick-off meeting of the project would be useful. What key point will you absolutely need to discuss with each of these persons for this project to succeed?
+Key objectives of project kickoff meeting:
+- Understand the requirement and clarifies attributes of e-commerce platform for product sales.
+- Understand the asset requirements and feasibility of technical solution to accomplish project.
+- Estimates the budget for project.
 
-The initial kickoff meeting should include the stakeholders who are responsible and accountable to initiate, build and deliver the project. As a CIO, I would ask Manager, Technical Leader and Project Manager to join the meeting. Below are their corresponding key point contributions to accomplish a project.
+Sales Head: He/She would be responsible to define the business requirements clearly and work along with IT department to accomplish project. 
+Key points- 
+-	What all range of products needs to be listed on e-commerce platform?
+-	How the launching of e-commerce platform is aligned with organization strategy?
+-	What range of products would be listed on portal?
+-	What are the timelines for launching portal?
+-	What is a target customer segment?
+-	What are the expectations from IT department?
 
-1: Manager
-Manager is the person who provides economics aspects of IT and responsible to build and run IT projects efficiently.
+IT Head: He/She would be responsible to design application and technical landscape for the business requirement and deliver project within estimated timeline. 
+Key points-
+-	What would be the team structure?
+o	A team is required to take decision on different matters like architecture, technology, security, project portfolio, application and technical landscape. 
+o	Manage ratio of IT people in business and vice-versa.
+-	What would be the Project management methodology?
+o	E.g., Waterfall, Agile etc. 
+o	Set intermediate tangible milestones.
+o	Establish formal reviews.
+o	Prioritize defined requirements.
+-	What would be workforce composition?
+o	Approach and reasons to keep activities/project/capacity either in-house or offshore or outsourced.
+o	Define expectations 
+-	What would be the skill framework?
+o	Approach on recruitment planning, trainings, key employee identification and role assignments.
+-	How would ensure efficiency of process and quality of deliverables?
+o	Standardized process and rule mandates must be in place.
+o	SOW (statement of works) for each role must be defined clearly.
+o	A right cooperation mechanism must be in place to manage firefighting and chaos.
+o	Improve demand quality, unit productivity and reduce technical complexity.
 
-2: Technical Leader
-Technical leader builds application & technical landscape and responsible for security, architecture and technology.
-
-3: Project Manager
-Project manager would be required to build and maintain a right balance of employees to accomplish project.
+Finance Head: He/she would be responsible to manage and approve the budget perspective of project planning ensuring efficient key point performance.
+Key points-
+-	Budget planning
+o	Estimate change cost and running cost associated with the project.
+o	Available budget and accordingly plan budget release for project in phases.
+-	Success measure KPIs
+o	ROI (return on investment).
